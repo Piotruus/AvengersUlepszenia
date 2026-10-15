@@ -1,0 +1,11 @@
+name: AvengersUpgrades
+version: 4.0.0
+main: pl.smurfpvp.AvengersUpgrades
+api-version: '1.21'
+commands:
+  ulepsz:
+    description: Otwiera menu ulepszen
+    aliases: [ulepszenia, avupgrades, avupgrade]
+  sety:
+    description: Podglad poziomow setow
+    usage: /sety poziom
