@@ -1,0 +1,14 @@
+name: AvengersUpgrades
+version: 4.0.0
+main: pl.smurfpvp.AvengersUpgrades
+api-version: '1.21'
+author: Piotruus
+description: Avengers item upgrade system
+commands:
+  ulepsz:
+    description: Otwiera menu ulepszen
+    usage: /ulepsz
+    aliases: [ulepszenia, avupgrades, avupgrade]
+permissions:
+  avengersupgrades.use:
+    default: true

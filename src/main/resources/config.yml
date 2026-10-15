@@ -1,0 +1,7 @@
+max-level: 12
+# Koszt ulepszenia zależy od aktualnego poziomu: base-cost + poziom * cost-per-level
+base-cost: 100
+cost-per-level: 100
+# Szanse na sukces dla opcji 25%, 50%, 100% (100% oznacza gwarantowany sukces)
+success-chances: [25, 50, 100]
+menu-title: "&8Avengers &c» &fUlepszenia"
